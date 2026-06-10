@@ -13,6 +13,10 @@ https://eclass.dongyang.ac.kr/local/ubdoc/?id=523168&tp=m&pg=ubfile
 
 14주차 TensorFlow 수업시간에 강조 한부분만
 
+오버피팅 방지하는법 3가지 언리스탑 드롭아웃
+풀링 입력값을 줄이는거 
+패딩 입력값을 올리는거
+
 <img width="676" height="295" alt="스크린샷 2026-04-01 111118" src="https://github.com/user-attachments/assets/42b883ad-7b35-4672-8d83-9d180271ac7d" />
 <img width="621" height="450" alt="스크린샷 2026-04-01 114512" src="https://github.com/user-attachments/assets/880b444e-58dd-4c8b-b12b-13ec06852f3b" />
 
