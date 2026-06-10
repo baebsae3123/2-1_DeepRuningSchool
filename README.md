@@ -5,6 +5,8 @@
 
 https://eclass.dongyang.ac.kr/local/ubdoc/?id=523168&tp=m&pg=ubfile
 
+9주차 좀 있음
+
 12주차 
 
 13주차 는 안나옴
