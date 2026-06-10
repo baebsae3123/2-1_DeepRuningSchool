@@ -1,7 +1,7 @@
 # 2-1_DeepRuningSchool
 딥러닝수업
 
-#기말고사 강조 내용
+# 기말고사 강조 내용
 
 https://eclass.dongyang.ac.kr/local/ubdoc/?id=523168&tp=m&pg=ubfile
 
