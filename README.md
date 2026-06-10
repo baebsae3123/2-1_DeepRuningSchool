@@ -6,7 +6,9 @@
 https://eclass.dongyang.ac.kr/local/ubdoc/?id=523168&tp=m&pg=ubfile
 
 12주차 
+
 13주차 는 안나옴
+
 14주차 TensorFlow 수업시간에 강조 한부분만
 
 <img width="676" height="295" alt="스크린샷 2026-04-01 111118" src="https://github.com/user-attachments/assets/42b883ad-7b35-4672-8d83-9d180271ac7d" />
