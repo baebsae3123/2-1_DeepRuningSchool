@@ -83,6 +83,7 @@ RNN LSTM 관
 활성화 함수
 | 옵션                     | 의미      |
 | ---------------------- | ------- |
+| `Activation(LeakyRelu(0.2) `   | 기울기 조절   |
 | `activation='relu'`    | 음수 제거   |
 | `activation='sigmoid'` | 0~1 확률  |
 | `activation='softmax'` | 다중 분류   |
